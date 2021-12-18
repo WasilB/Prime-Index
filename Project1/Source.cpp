@@ -30,7 +30,7 @@ bool isPrime(int num)
 		}
 	}
 
-	//output    
+	//output     12312312 
 	for (int i = 0; i < 14; i++)
 	{
 		cout << array[i] << " ";
